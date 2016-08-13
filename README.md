@@ -17,4 +17,4 @@ One day, while working on the mobile project, i decided to create something that
 
 ## Created by
 
-Dima Golovkov, [Facebook](https://www.facebook.com/profile.php?id=100009463757286)
+Dima Golovkov, [Facebook](https://www.facebook.com/dsgolovkov)
